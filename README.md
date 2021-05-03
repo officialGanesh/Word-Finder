@@ -8,7 +8,6 @@ to find in other folders. we'll be using
 ### TODO
 1️⃣ Load the files 🗄️
 2️⃣ Run the script to check for required word 👀
-3️⃣ Count the occurance of word 
-4️⃣ Display the count
+3️⃣ Display the number of files in which word found
 
 
