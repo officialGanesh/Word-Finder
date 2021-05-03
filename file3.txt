@@ -1,0 +1,56 @@
+
+70 KB (7,434 words) - 16:44, 29 April 2021
+Comparison of integrated development environments (redirect from List of JavaScript IDEs)
+also the basis for leading IDEs in other programming languages (e.g. for Python, IntelliJ is rebranded as PyCharm, and Eclipse has the PyDev plugin.) IBM
+81 KB (680 words) - 17:50, 14 April 2021
+Jasmine (JavaScript testing framework)
+languages like Nodejs, Python, Ruby, or (old way) by using Karma, a simple JavaScript test runner tool. Mocha is another popular Javascript testing framework
+7 KB (672 words) - 04:55, 13 April 2021
+Futures and promises (redirect from Promise (JavaScript))
+by other languages, notably Dart (2014), Python (2015), Hack (HHVM), and drafts of ECMAScript 7 (JavaScript), Scala, and C++. Some programming languages
+41 KB (4,429 words) - 10:48, 16 April 2021
+Visual Studio Code (redirect from VS Code)
+used with a variety of programming languages, including Java, JavaScript, Go, Node.js, Python and C++. It is based on the Electron framework, which is used
+15 KB (1,316 words) - 16:29, 1 May 2021
+Web framework (redirect from JavaScript framework)
+js. Dash is an open-source Python, R, and Julia framework for building web-based analytic applications. The same JavaScript (i.e. React) is used on the
+21 KB (2,174 words) - 02:34, 15 April 2021
+Julia (programming language)
+to JavaScript". JuliaGizmos. 7 July 2019. Retrieved 25 July 2019. "PyCall.jl". stevengj. github.com. "Using PyCall in julia on Ubuntu with python3". julia-users
+69 KB (5,912 words) - 16:25, 26 April 2021
+Anonymous function (redirect from Lambda (Python))
+to the Python syntax of lambda x: M. The name "arrow function" refers to the mathematical "maps to" symbol, x ↦ M. Compare to the JavaScript syntax of
+77 KB (8,536 words) - 17:42, 2 May 2021
+Immutable object (category Articles with example Python (programming language) code)
+are Java, C++, C#, VB.NET, and many scripting languages, such as Perl, Python, and Ruby. In this case, it matters whether the state of an object can vary
+31 KB (3,689 words) - 15:56, 30 January 2021
+Object-oriented programming (section Class-based vs prototype-based)
+include: (list order based on TIOBE index) Java, C++, C#, Python, R, PHP, Visual Basic.NET, JavaScript, Ruby, Perl, Object Pascal, Objective-C, Dart, Swift
+67 KB (7,482 words) - 02:53, 2 May 2021
+Scope (computer science) (section JavaScript)
+cases, notably for mutual recursion. In other languages, such as JavaScript or Python, a name's scope begins at the start of the relevant block (such as
+75 KB (10,438 words) - 15:05, 5 April 2021
+Coroutine (section Implementations in JavaScript)
+JavaScript 1.7". "Julia Manual - Control Flow - Tasks (aka Coroutines)". "What's New in Kotlin 1.1". "Lua 5.2 Reference Manual". www.lua.org. "Python
+42 KB (4,363 words) - 16:06, 10 April 2021
+GraphQL
+servers are available for multiple languages, including Haskell, JavaScript, Perl, Python, Ruby, Java, C++, C#, Scala, Go, Rust, Elixir, Erlang, PHP, R,
+7 KB (521 words) - 15:17, 28 April 2021
+Dynamic web page
+help of server-side languages such as ASP, ColdFusion, Go, JavaScript, Perl, PHP, Ruby, Python, WebDNA and other languages, by a support server that can
+14 KB (1,776 words) - 20:28, 16 March 2021
+Server-sent events (section Python)
+client and designed to enhance native, cross-browser streaming through a JavaScript API called EventSource, through which a client requests a particular URL
+8 KB (606 words) - 23:46, 22 December 2020
+React Native
+Jordan Walke found a way to generate UI elements for iOS from a background JavaScript thread, which became the basis for the React web framework. They decided
+9 KB (651 words) - 09:07, 29 April 2021
+Metaprogramming
+is available (such as in C#, Forth, Frink, Groovy, JavaScript, Lisp, Elixir, Lua, Perl, PHP, Python, REBOL, Ruby, Rust, SAS, Smalltalk, and Tcl), then
+14 KB (1,491 words) - 07:27, 13 April 2021
+List of wiki software (section JavaScript-based)
+and edit application behavior and other content. TiddlyWiki is a HTML-JavaScript-based server-less wiki in which the entire site/wiki is contained in a
+11 KB (1,389 words) - 14:15, 1 May 2021
+Equals sign
+a Boolean value. JavaScript has the same semantics for ===, referred to as "equality without type coercion". However, in JavaScript the behavior of ==
+23 KB (2,231 words) - 07:54, 20 April 2021
